@@ -22,7 +22,7 @@ Minhas credenciais incluem pos graduação em Computação Forense e Perícia Di
 ## Projetos:
 Veja os trabalhos desenvolvidos:
 
-* **Mecanismo de busca de imagem:** https://encurtador.com.br/vEJKR
+* **Mecanismo de busca de imagem de pornografia infantojuvenil:** https://encurtador.com.br/vEJKR
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
