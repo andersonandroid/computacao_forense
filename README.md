@@ -20,9 +20,9 @@ Minhas credenciais incluem pos graduação em Computação Forense e Perícia Di
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os trabalhos desenvolvidos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Mecanismo de busca de imagem de pornografia infantojuvenil:** https://bityli.com/YaJhab
 * **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
